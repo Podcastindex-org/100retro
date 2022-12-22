@@ -13,6 +13,6 @@ just too big and are easy to pull in from other places.
 
 You'll need to set your s3 credentials and your mastodon app token in the globals section.
 
-The FreePod library included is found here:  [https://github.com/daveajones/freepod](FreePod)
+The FreePod library included is found here:  [https://github.com/daveajones/freepod]()
 
-Feel free to ask for help:  @dave@podcastindex.social
+Feel free to ask for help:  [@dave@podcastindex.social]()
